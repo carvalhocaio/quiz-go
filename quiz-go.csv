@@ -1,51 +1,54 @@
 Pergunta,Opção 1,Opção 2,Opção 3,Opção 4,Resposta Correta
-Qual a capital do Brasil?,Brasília,Rio de Janeiro,São Paulo,Salvador,1
-Qual a cidade mais populosa do Brasil?,São Paulo,Rio de Janeiro,Brasília,Salvador,1
-Qual é a língua oficial do Brasil?,Inglês,Espanhol,Português,Francês,3
-Em que ano o Brasil conquistou a independência de Portugal?,1808,1822,1888,1900,2
-Quantas estrelas existem na bandeira do Brasil?,25,26,27,28,3
-Qual é o maior bioma brasileiro?,Cerrado,Amazonas,Pampas,Caatinga,2
-Qual é o nome da moeda do Brasil?,Dólar,Real,Euro,Libra,2
-Quantas vezes o Brasil venceu a Copa do Mundo de Futebol?,3,4,5,6,3
-Qual é o nome da estátua que fica no alto do Corcovado?,Cristo Redentor,Liberdade,Lembrança,Brasília,1
-Qual é a maior usina hidrelétrica do Brasil?,Itaipu,Belo Monte,Tucuruí,Três Marias,1
-Qual prato é considerado símbolo da culinária nacional?,Feijoada,Moqueca,Acarajé,Pão de queijo,1
-Em que estado fica o Pantanal?,Mato Grosso,Mato Grosso do Sul,Bahia,Amazonas,2
-Qual cidade é chamada de “Veneza Brasileira”?,Manaus,Recife,Fortaleza,Salvador,2
-Quantas unidades federativas tem o Brasil (incluindo o DF)?,25,26,27,28,3
-Qual esporte é o mais popular no Brasil?,Basquete,Vôlei,Futebol,Tênis,3
-Qual é o apelido da seleção brasileira de futebol?,Canarinho,Amarelinha,Brasileirão,Seleção Verde,1
-Qual bebida típica brasileira é feita com cachaça limão e açúcar?,Caipirinha,Caipiroska,Batida,Negroni,1
-Em que ano foi inaugurada Brasília?,1956,1960,1964,1970,2
-Qual país colonizou o Brasil?,Espanha,Inglaterra,França,Portugal,4
-Qual cidade sediou os Jogos Olímpicos de 2016?,Rio de Janeiro,São Paulo,Brasília,Salvador,1
-Qual é o principal rio da Bacia Amazônica?,São Francisco,Amazonas,Tietê,Paraná,2
-Que bioma ocupa cerca de 60 % da Amazônia no Brasil?,Amazônia,Cerrado,Pantanal,Atlantic Forest,1
-Qual cidade é famosa pelo festival de Carnaval e pelas praias?,Rio de Janeiro,Brasília,Fortaleza,Recife,1
-Qual foi o primeiro piloto brasileiro campeão de Fórmula 1?,Ayrton Senna,Emerson Fittipaldi,Nelson Piquet,Ricardo Risatti,1
-Qual dança associada ao Brasil foi reconhecida pela UNESCO?,Capoeira,Samba,Bossa Nova,Forró,1
-Qual estado produz mais café no Brasil?,Minas Gerais,São Paulo,Espírito Santo,Rio de Janeiro,1
-Quando Pedro Álvares Cabral chegou ao Brasil?,1492,1500,1530,1600,2
-Quantos fusos horários o Brasil possui?,2,3,4,5,3
-Qual é o nome do futebol estático no Maracanã?,Maracanã,Pacaembu,Beira-Rio,Mineirão,1
-Quem é considerado o pai da Bossa Nova?,João Gilberto,Tom Jobim,Caetano Veloso,Chico Buarque,1
-Quantos países fazem fronteira com o Brasil?,8,9,10,11,3
-Qual palavra em português significa “prefeito” em Brasília?,Govenador,Senador,Administrador-Distrital,Governador,4
-Qual é a maior ilha oceânica do Brasil?,Fernando de Noronha,Trindade,Ilha Grande,Madeira,1
-Que bicho simboliza a fauna do Pantanal?,Onça,Paca,Tatu,Capivara,4
-Qual festival nacional ocorre antes da Quaresma?,Carnaval,Oktoberfest,Dia de São João,Festa Junina,1
-Que floresta tropical está no extremo norte do Brasil?,Caatinga,Cerrado,Amazônia,Serra do Mar,3
-Qual é a religão predominante no Brasil?,Catolicismo,Protestantismo,Espiritismo,Islamismo,1
-Qual a economia nominal aproximada do Brasil em 2025?,1tri,2bi,2tri,5tri,3
-Qual animal é famoso na Amazônia e no Pantanal?,Jaguar,Lobo,Rinoceronte,Pinguim,1
-Qual esporte aquático é popular na costa do Brasil?,Surf,Nado sincronizado,Salto ornamental,Polo aquático,1
-Que bioma é o mais ameaçado ambientalmente no sul do Brasil?,Pampas,Atlantic Forest,Cerrado,Caatinga,2
-Qual é o maior aeroporto brasileiro em número de passageiros?,Brasília,Galeão,Guarulhos,Confins,3
-Que região do Brasil concentra a maior parte da reserva mineral de ferro?,Sudeste,Centro-Oeste,Norte,Nordeste,1
-Que tipo de vegetação típica possui cerrado e savana?,Florestal,Montanhosa,Savana,Cerrado,4
-Em que ano foi abolida a escravidão no Brasil?,1865,1888,1900,1950,2
-Qual é a cor predominante da bandeira brasileira?,Verde,Azul,Amarelo,Branco,1
-Quem escreveu “The Alchemist” (O Alquimista)?,Paulo Coelho,Graciliano Ramos,Jorge Amado,Clarice Lispector,1
-Qual estátua foi construída na França antes de ser enviada para o Brasil?,Cristo Redentor,Liberdade,Ribalta,Invitation,1
-Qual é a principal floresta que cobre o estado do Pará?,Amazônia,Atlantic Forest,Cerrado,Pantanal,1
-Qual é a altitude aproximada de Brasília?,500m,1000m,50m,1500m,1
+Em que ano foi lançado o Go?,2009,2007,2013,2011,1
+Quem criou a linguagem Go?,Google,Microsoft,Apple,Facebook,1
+Qual é a extensão padrão de arquivos Go?,.golang,.g,.go,.gol,3
+Qual comando compila e executa um programa Go?,go build,go execute,go compile,go run,4
+Qual função é o ponto de entrada de um programa Go?,init(),start(),begin(),main(),4
+Como se declara uma variável em Go?,var x int,x := int,declare x int,int x,1
+Qual é o valor zero de um int em Go?,nil,undefined,0,null,3
+Como se declara uma constante em Go?,const PI = 3.14,var PI = 3.14,define PI 3.14,final PI = 3.14,1
+Qual operador é usado para declaração curta de variáveis?,=,::,:=,==,3
+Como se comenta uma linha em Go?,/* */,--,//,#,3
+Qual estrutura de controle não existe em Go?,for,if,switch,while,4
+Como se declara um slice em Go?,[]int{},array[int],list<int>,int[],1
+Qual é a diferença entre array e slice em Go?,Slices têm tamanho fixo,Arrays têm tamanho fixo,Arrays são mais rápidos,Não há diferença,2
+Como se cria um map em Go?,map[string]int{},make(map[string]int),create map[string]int,new(map[string]int),1
+Qual é o valor zero de um pointer em Go?,undefined,nil,0,null,2
+Como se declara uma struct em Go?,object Person{},type Person struct{},struct Person{},class Person{},2
+Como se cria uma goroutine?,go função(),thread função(),start função(),async função(),1
+Qual é o canal de comunicação entre goroutines?,buffer,channel,pipe,queue,2
+Como se declara um channel em Go?,chan int{},new(chan int),create chan int,make(chan int),4
+Qual comando gerencia dependências em Go?,go get,go mod,go vendor,go install,2
+Como se importa um pacote em Go?,using fmt,import fmt,require fmt,include fmt,2
+Qual é o pacote padrão para I/O formatado?,output,io,print,fmt,4
+Como se testa em Go?,go test,go validate,go verify,go check,1
+Qual é a convenção de nomenclatura para exportar funções?,camelCase,PascalCase,kebab-case,snake_case,2
+Como se trata erros em Go?,error handling,exception,if err != nil,try-catch,3
+Qual é o tipo de erro padrão em Go?,exception,error,err,Error,2
+Como se cria uma interface em Go?,interface Writer{},type Writer interface{},abstract Writer{},class Writer interface{},2
+Qual método implementa automaticamente fmt.Stringer?,Format(),String(),Print(),ToString(),2
+Como se faz type assertion em Go?,Type(value),cast(value Type),value as Type,value.(Type),4
+Qual é o operador de endereço em Go?,*,@,#,&,4
+Como se desreferencia um pointer?,*ptr,ptr*,ptr&,&ptr,1
+Qual comando formata código Go?,go style,go fmt,go beautify,go format,2
+Como se declara um método em Go?,Receiver::Method(),func (r Receiver) Method(),def Method(r Receiver),method Receiver.Method(),2
+Qual é o modificador de acesso público em Go?,export,public,visible,Primeira letra maiúscula,4
+Como se faz um loop infinito em Go?,loop {},for {},infinite {},while true,2
+Qual é a palavra-chave para sair de um loop?,stop,exit,break,quit,3
+Como se implementa herança em Go?,extends,implements,inherits,Não há herança,4
+Qual é o mecanismo de reutilização em Go?,Inheritance,Composition,Polymorphism,Encapsulation,2
+Como se declara múltiplas variáveis?,var a b int,var a b = int,var (a b int),var a int; var b int,2
+Qual é o range de um byte em Go?,0-127,0-65535,0-255,0-2147483647,3
+Como se converte string para int?,convert.ToInt(),int(string),parse.Int(),strconv.Atoi(),4
+Qual é o tamanho de um int em Go?,32 bits,16 bits,64 bits,Depende da arquitetura,4
+Como se declara um array de tamanho fixo?,var arr []int,var arr [5]int,var arr int[5],var arr array[5],2
+Qual função retorna o tamanho de um slice?,size(),count(),length(),len(),4
+Como se adiciona elemento a um slice?,push(),add(),append(),insert(),3
+Qual é o valor zero de um slice?,nil,empty,null,{},1
+Como se cria um slice a partir de array?,slice(array),make(slice array),array.slice(),array[:],4
+Qual é a capacidade inicial de um slice?,cap > len,cap = 0,len > cap,len = cap,4
+Como se copia um slice?,duplicate(),copy(),replicate(),clone(),2
+Qual função deleta elemento de um map?,erase(),pop(),remove(),delete(),4
+Como se verifica se chave existe no map?,map.exists(key),key in map,map.has(key),value ok := map[key],4
+Qual é o valor zero de um map?,undefined,{},nil,empty,3
+Como se itera sobre um map?,map.forEach(),for key in map,for each map,for key value := range,4
